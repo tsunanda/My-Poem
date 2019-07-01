@@ -1,1 +1,5 @@
 I have cat,
+he is very fat,
+but he is active
+and catches rat.
+He is also lazy,
